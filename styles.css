@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 
 
 :root {
@@ -7,7 +8,9 @@
     --dark-gray: hsl(0, 0%, 59%);
 }
 
-
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+}
 
 
 /*  FOOTER */
